@@ -1,6 +1,6 @@
 # NGER
 
-Rapportløsning for NGER i R
+Rapportløsning for Norsk gynekologisk endoskopi register (NGER) i R
 
 # Instruksjon
 
